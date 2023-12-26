@@ -2,6 +2,7 @@ Reference URLs
 --------------
 - https://nextjs.org/
 - https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/tree/main
+- https://github.com/academind/react-complete-guide-course-resources/tree/main/code/30%20React%20Summary
 
 
 Upgrading node js version on mac
